@@ -1,4 +1,4 @@
-Description
+/*Description
 
 Given an array of integers, rotate the array to the left by `D` positions. The rotation should be done in-place with O(1) space complexity (excluding the input array itself).
 
@@ -76,7 +76,7 @@ Public Test Cases:
 1 2 3 4
 1 2 3 4
 
-
+*/
 -------------------------------
 
 
