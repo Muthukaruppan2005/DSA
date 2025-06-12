@@ -1,3 +1,4 @@
+/*
 Description
 
 Given a 2D matrix, print its elements in a wave-like pattern. The wave pattern starts from the top-left corner of the matrix and moves down the first column, then up the second column, then down the third column, and so on.
@@ -33,7 +34,7 @@ Sample Output
 
 1 5 9 10 6 2 3 7 11 12 8 4
 
-
+*/
 ----------------------------------------
 
 import java.util.*;
