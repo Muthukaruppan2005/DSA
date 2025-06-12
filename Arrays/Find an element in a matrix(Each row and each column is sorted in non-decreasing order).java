@@ -1,4 +1,4 @@
-You are given a r x c matrix where every row and every column is sorted in ascending order. Your task is to determine whether a given number x exists in the matrix. Instead of scanning the entire matrix, you can use a smart search technique starting from the top-right or bottom-left corner. From there, you can eliminate a row or column in each step based on the comparison with x. This approach ensures an efficient search in O(r + c) time complexity. You must print "YES" if x is found and "NO" otherwise. This problem tests your ability to apply logical optimization techniques to matrix-based search problems.
+/* You are given a r x c matrix where every row and every column is sorted in ascending order. Your task is to determine whether a given number x exists in the matrix. Instead of scanning the entire matrix, you can use a smart search technique starting from the top-right or bottom-left corner. From there, you can eliminate a row or column in each step based on the comparison with x. This approach ensures an efficient search in O(r + c) time complexity. You must print "YES" if x is found and "NO" otherwise. This problem tests your ability to apply logical optimization techniques to matrix-based search problems.
 
 Input Format:
 First line: two integers r and c (number of rows and columns)
@@ -98,7 +98,7 @@ NO
 2 4 6
 4
 YES
-
+*/
 -------------------------------------------------
 import java.util.*;
 public class main{
