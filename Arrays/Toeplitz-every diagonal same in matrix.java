@@ -1,3 +1,4 @@
+/*
 Description
 
 A matrix is Toeplitz if every diagonal from top-left to bottom-right has the same elements. Given an m x n matrix, determine if it is Toeplitz.
@@ -83,6 +84,7 @@ true
 4 1 2
 5 4 1
 true
+  */
 ------------------------------------------
 import java.util.*;
 public class main{
