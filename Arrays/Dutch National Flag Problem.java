@@ -1,4 +1,4 @@
-Sort an array of 0s, 1s and 2s - Dutch National Flag Problem
+/*Sort an array of 0s, 1s and 2s - Dutch National Flag Problem
 
 Description
 Given an array of integers where each element is either 0, 1, or 2, sort the array in non-decreasing order. The algorithm should run in O(n) time complexity and use only constant extra space (O(1) space complexity).
@@ -7,7 +7,7 @@ array. The first line contains an integer 'n' (1 ≤ n ≤ 10^6), the size of th
 The second line contains 'n' space-separated integers (0, 1, or 2) representing the elements of the array.
 Output Format
 Print the sorted array with elements separated by spaces.
-
+*/
 
 
 
